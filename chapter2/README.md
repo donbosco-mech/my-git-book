@@ -4,7 +4,7 @@
 - [] 'git init'
 - [] git add .
 - [] git commit -m 'message'
-- [] git push origin aster
+
 
 ### End of chapter2
 
